@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: blog-web
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: leia
+Implementation-Vendor-Id: com.aaron
+Build-Jdk: 1.8.0_152
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/blog/blog-web
+Created-By: Maven Integration for Eclipse
+
