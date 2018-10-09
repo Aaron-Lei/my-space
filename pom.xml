@@ -22,6 +22,7 @@
 
 	<!--系统模板 -->
 	<modules>
+		<module>blog-common</module>
 		<module>blog-sys</module>
 		<module>blog-web</module>
 	</modules>
@@ -35,7 +36,7 @@
 
 	<!--全局依赖 -->
 	<dependencies>
-		
+
 
 	</dependencies>
 
